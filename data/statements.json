@@ -1,0 +1,2918 @@
+[
+    {
+     "id": 1,
+     "text": "Account for changes in partnership"
+    },
+    {
+     "id": 2,
+     "text": "Understand principles of ethical behaviour"
+    },
+    {
+     "id": 3,
+     "text": "Address the concerns of stakeholders"
+    },
+    {
+     "id": 4,
+     "text": "Analyse financial information"
+    },
+    {
+     "id": 5,
+     "text": "Analyse accounting data to draw conclusions"
+    },
+    {
+     "id": 6,
+     "text": "Analyse accounting data to make judgements"
+    },
+    {
+     "id": 7,
+     "text": "Analyse accounting data to present information"
+    },
+    {
+     "id": 8,
+     "text": "Analyse accounting information"
+    },
+    {
+     "id": 9,
+     "text": "Analyse budgets"
+    },
+    {
+     "id": 10,
+     "text": "Analyse business performance using accounting techniques to interpret financial information"
+    },
+    {
+     "id": 11,
+     "text": "Analyse data methodically"
+    },
+    {
+     "id": 12,
+     "text": "Analyse financial information"
+    },
+    {
+     "id": 13,
+     "text": "Analyse information in graphical forms"
+    },
+    {
+     "id": 14,
+     "text": "Analyse information in numerical forms"
+    },
+    {
+     "id": 15,
+     "text": "Analyse information in written forms"
+    },
+    {
+     "id": 16,
+     "text": "Analyse projects through the application of capital investment appraisal measures"
+    },
+    {
+     "id": 17,
+     "text": "Analyse situations"
+    },
+    {
+     "id": 18,
+     "text": "Apply accounting concepts"
+    },
+    {
+     "id": 19,
+     "text": "Apply accounting principles"
+    },
+    {
+     "id": 20,
+     "text": "Apply accounting techniques"
+    },
+    {
+     "id": 21,
+     "text": "Apply codes of practice of CCAB"
+    },
+    {
+     "id": 22,
+     "text": "Apply codes of practice to ensure safeguards are in place"
+    },
+    {
+     "id": 23,
+     "text": "Apply codes of practice to evaluate the significance of threats to the fundamental principles"
+    },
+    {
+     "id": 24,
+     "text": "Apply codes of practice to resolve conflicts of interest"
+    },
+    {
+     "id": 25,
+     "text": "Apply codes of practice to seek external\/professional help when necessary"
+    },
+    {
+     "id": 26,
+     "text": "Apply discounting techniques"
+    },
+    {
+     "id": 27,
+     "text": "Apply FRC"
+    },
+    {
+     "id": 28,
+     "text": "Apply information in graphical forms"
+    },
+    {
+     "id": 29,
+     "text": "Apply information in numerical forms"
+    },
+    {
+     "id": 30,
+     "text": "Apply information in written forms"
+    },
+    {
+     "id": 31,
+     "text": "Apply net present value"
+    },
+    {
+     "id": 32,
+     "text": "Apply payback"
+    },
+    {
+     "id": 33,
+     "text": "Apply principles of ethical behaviour"
+    },
+    {
+     "id": 34,
+     "text": "Apply the CIMA regulatory framework"
+    },
+    {
+     "id": 35,
+     "text": "Apply the Companies Act"
+    },
+    {
+     "id": 36,
+     "text": "Apply the double entry model in the preparation of financial statements for business organisations"
+    },
+    {
+     "id": 37,
+     "text": "Apply the principles of accounting in the preparation of financial accounting information"
+    },
+    {
+     "id": 38,
+     "text": "Apply the principles of accounting in the preparation of management accounting information"
+    },
+    {
+     "id": 39,
+     "text": "Apply the relevant terms of the Partnership Act 1890 for partners operating without agreement to financial statements"
+    },
+    {
+     "id": 40,
+     "text": "Apply the relevant terms of the Partnership Act 1890 for partners operating without agreement to financial statements to partners' accounts"
+    },
+    {
+     "id": 41,
+     "text": "Apply the techniques of accounting in the preperation of financial accounting information"
+    },
+    {
+     "id": 42,
+     "text": "Apply the techniques of accounting in the preperation of management accounting information"
+    },
+    {
+     "id": 43,
+     "text": "Calculate accounting ratios"
+    },
+    {
+     "id": 44,
+     "text": "Calculate break-even"
+    },
+    {
+     "id": 45,
+     "text": "Calculate break-even point"
+    },
+    {
+     "id": 46,
+     "text": "Calculate capital gearing"
+    },
+    {
+     "id": 47,
+     "text": "Calculate cost"
+    },
+    {
+     "id": 48,
+     "text": "Calculate current ratio"
+    },
+    {
+     "id": 49,
+     "text": "Calculate expenses in relation to revenue %"
+    },
+    {
+     "id": 50,
+     "text": "Calculate financial measures"
+    },
+    {
+     "id": 51,
+     "text": "Calculate fractions"
+    },
+    {
+     "id": 52,
+     "text": "Calculate interest on a partner’s loan"
+    },
+    {
+     "id": 53,
+     "text": "Calculate interest on capital"
+    },
+    {
+     "id": 54,
+     "text": "Calculate interest on drawings"
+    },
+    {
+     "id": 55,
+     "text": "Calculate investment appraisal outcomes"
+    },
+    {
+     "id": 56,
+     "text": "Calculate liquid capital ratio"
+    },
+    {
+     "id": 57,
+     "text": "Calculate markup %"
+    },
+    {
+     "id": 58,
+     "text": "Calculate net present value"
+    },
+    {
+     "id": 59,
+     "text": "Calculate partnership salaries"
+    },
+    {
+     "id": 60,
+     "text": "Calculate payback"
+    },
+    {
+     "id": 61,
+     "text": "Calculate payback period"
+    },
+    {
+     "id": 62,
+     "text": "Calculate percentage changes"
+    },
+    {
+     "id": 63,
+     "text": "Calculate percentages"
+    },
+    {
+     "id": 64,
+     "text": "Calculate profit"
+    },
+    {
+     "id": 65,
+     "text": "Calculate profit in relation to revenue %"
+    },
+    {
+     "id": 66,
+     "text": "Calculate profit of an organisation where there are insufficient records to prepare income statements"
+    },
+    {
+     "id": 67,
+     "text": "Calculate rate of inventory turnover"
+    },
+    {
+     "id": 68,
+     "text": "Calculate rate of inventory turnover (days)"
+    },
+    {
+     "id": 69,
+     "text": "Calculate ratios"
+    },
+    {
+     "id": 70,
+     "text": "Calculate return on capital employed %"
+    },
+    {
+     "id": 71,
+     "text": "Calculate revaluation of assets and treatment of goodwill"
+    },
+    {
+     "id": 72,
+     "text": "Calculate revenue"
+    },
+    {
+     "id": 73,
+     "text": "Calculate selling price using absorption costing"
+    },
+    {
+     "id": 74,
+     "text": "Calculate selling price using activity based costing"
+    },
+    {
+     "id": 75,
+     "text": "Calculate shares of profit and losses"
+    },
+    {
+     "id": 76,
+     "text": "Calculate the current ratio"
+    },
+    {
+     "id": 77,
+     "text": "Calculate the ratio for Capital gearing"
+    },
+    {
+     "id": 78,
+     "text": "Calculate the ratio for dividend cover"
+    },
+    {
+     "id": 79,
+     "text": "Calculate the ratio for dividend yield"
+    },
+    {
+     "id": 80,
+     "text": "Calculate the ratio for earnings per share"
+    },
+    {
+     "id": 81,
+     "text": "Calculate the ratio for earnings per share using the formula profit attributable to ordinary shareholders of the parent company (Profit after tax in pence)\/Number of issued ordinary shares."
+    },
+    {
+     "id": 82,
+     "text": "Calculate the ratio for expenses in relation to revenue"
+    },
+    {
+     "id": 83,
+     "text": "Calculate the ratio for gross profit margin"
+    },
+    {
+     "id": 84,
+     "text": "Calculate the ratio for interest cover"
+    },
+    {
+     "id": 85,
+     "text": "Calculate the ratio for liquid capital ratio (acid test ratio)"
+    },
+    {
+     "id": 86,
+     "text": "Calculate the ratio for markup"
+    },
+    {
+     "id": 87,
+     "text": "Calculate the ratio for price earnings"
+    },
+    {
+     "id": 88,
+     "text": "Calculate the ratio for profit in relation to revenue"
+    },
+    {
+     "id": 89,
+     "text": "Calculate the ratio for rate of inventory turnover"
+    },
+    {
+     "id": 90,
+     "text": "Calculate the ratio for rate of inventory turnover (days)"
+    },
+    {
+     "id": 91,
+     "text": "Calculate the ratio for return on capital employed (limited company)"
+    },
+    {
+     "id": 92,
+     "text": "Calculate the ratio for return on capital employed (sole trader)"
+    },
+    {
+     "id": 93,
+     "text": "Calculate the ratio for trade payable days"
+    },
+    {
+     "id": 94,
+     "text": "Calculate the ratio for trade receivable days"
+    },
+    {
+     "id": 95,
+     "text": "Calculate total product cost using absorption costing"
+    },
+    {
+     "id": 96,
+     "text": "Calculate total product cost using activity based costing"
+    },
+    {
+     "id": 97,
+     "text": "Calculate trade payable days"
+    },
+    {
+     "id": 98,
+     "text": "Calculate trade receivable days"
+    },
+    {
+     "id": 99,
+     "text": "Calculate using discounting techniques"
+    },
+    {
+     "id": 100,
+     "text": "Calculate variances"
+    },
+    {
+     "id": 101,
+     "text": "Changes in partnership are:Understand changes in partnership such as the retirement of a partner"
+    },
+    {
+     "id": 102,
+     "text": "Comment on the financial statements of partnerships"
+    },
+    {
+     "id": 103,
+     "text": "Communicate accounting information"
+    },
+    {
+     "id": 104,
+     "text": "Communicate accounting information graphically so that it can be understood by non-accountants"
+    },
+    {
+     "id": 105,
+     "text": "Communicate accounting information graphically so that it can be used by stakeholders for decision making purposes"
+    },
+    {
+     "id": 106,
+     "text": "Communicate accounting information numerically so that it can be understood by non-accountants"
+    },
+    {
+     "id": 107,
+     "text": "Communicate accounting information numerically so that it can be used by stakeholders for decision making purposes"
+    },
+    {
+     "id": 108,
+     "text": "Communicate insights of financial information numerically"
+    },
+    {
+     "id": 109,
+     "text": "Communicate insights of financial information verbally"
+    },
+    {
+     "id": 110,
+     "text": "Correct any errors in bookkeeping"
+    },
+    {
+     "id": 111,
+     "text": "Develop a logical approach to problem solving through the analysis of financial information"
+    },
+    {
+     "id": 112,
+     "text": "Develop a logical approach to problem solving through the analysis of management information"
+    },
+    {
+     "id": 113,
+     "text": "Develop a logical approach to problem solving through the evaluation of financial information"
+    },
+    {
+     "id": 114,
+     "text": "Develop a logical approach to problem solving through the evaluation of management information"
+    },
+    {
+     "id": 115,
+     "text": "Develop a methodical approach to problem solving through the analysis of financial information"
+    },
+    {
+     "id": 116,
+     "text": "Develop a methodical approach to problem solving through the analysis of management information"
+    },
+    {
+     "id": 117,
+     "text": "Develop a methodical approach to problem solving through the evaluation of financial information"
+    },
+    {
+     "id": 118,
+     "text": "Develop a methodical approach to problem solving through the evaluation of management information"
+    },
+    {
+     "id": 119,
+     "text": "Develop the skills of an accountant to develop accounting information systems"
+    },
+    {
+     "id": 120,
+     "text": "Develop the skills of an accountant to evaluate accounting information systems"
+    },
+    {
+     "id": 121,
+     "text": "Draw together knowledge from across the full course of study"
+    },
+    {
+     "id": 122,
+     "text": "Draw together skills from across the full course of study"
+    },
+    {
+     "id": 123,
+     "text": "Draw together understanding from across the full course of study"
+    },
+    {
+     "id": 124,
+     "text": "Evaluate management information"
+    },
+    {
+     "id": 125,
+     "text": "Evaluate accounting data to draw conclusions"
+    },
+    {
+     "id": 126,
+     "text": "Evaluate accounting data to make judgements"
+    },
+    {
+     "id": 127,
+     "text": "Evaluate accounting data to present information"
+    },
+    {
+     "id": 128,
+     "text": "Evaluate budgets"
+    },
+    {
+     "id": 129,
+     "text": "Evaluate business performance using accounting techniques to interpret financial information"
+    },
+    {
+     "id": 130,
+     "text": "Evaluate financial information"
+    },
+    {
+     "id": 131,
+     "text": "Evaluate projects through the application of capital investment appraisal measures"
+    },
+    {
+     "id": 132,
+     "text": "Evaluate the benefits of financial reporting in communicating information to stakeholders to enable them to reach informed opinions about the organisation"
+    },
+    {
+     "id": 133,
+     "text": "Evaluate the benefits of management accounting systems in providing information to enable managers to control"
+    },
+    {
+     "id": 134,
+     "text": "Evaluate the benefits of management accounting systems in providing information to enable managers to make decisions"
+    },
+    {
+     "id": 135,
+     "text": "Evaluate the benefits of management accounting systems in providing information to enable managers to plan"
+    },
+    {
+     "id": 136,
+     "text": "Evaluate the benefits of management accounting techniques in providing information to enable managers to control"
+    },
+    {
+     "id": 137,
+     "text": "Evaluate the benefits of management accounting techniques in providing information to enable managers to make decisions"
+    },
+    {
+     "id": 138,
+     "text": "Evaluate the benefits of management accounting techniques in providing information to enable managers to plan"
+    },
+    {
+     "id": 139,
+     "text": "Evaluate the impact of ethical considerations on the accountant"
+    },
+    {
+     "id": 140,
+     "text": "Evaluate the impact of the duty to accurately represent the facts when preparing accounting information"
+    },
+    {
+     "id": 141,
+     "text": "Evaluate the impact of the duty to accurately represent the facts when presenting accounting information"
+    },
+    {
+     "id": 142,
+     "text": "Evaluate the impact of the duty to be truthful"
+    },
+    {
+     "id": 143,
+     "text": "Evaluate the limitations of financial reporting in communicating information to stakeholders to enable them to reach informed opinions about the organisation"
+    },
+    {
+     "id": 144,
+     "text": "Evaluate the limitations of management accounting systems in providing information to enable managers to control"
+    },
+    {
+     "id": 145,
+     "text": "Evaluate the limitations of management accounting systems in providing information to enable managers to make decisions"
+    },
+    {
+     "id": 146,
+     "text": "Evaluate the limitations of management accounting systems in providing information to enable managers to plan"
+    },
+    {
+     "id": 147,
+     "text": "Evaluate the limitations of management accounting techniques in providing information to enable managers to control"
+    },
+    {
+     "id": 148,
+     "text": "Evaluate the limitations of management accounting techniques in providing information to enable managers to make decisions"
+    },
+    {
+     "id": 149,
+     "text": "Evaluate the limitations of management accounting techniques in providing information to enable managers to plan"
+    },
+    {
+     "id": 150,
+     "text": "Identify ethical considerations"
+    },
+    {
+     "id": 151,
+     "text": "Interpret accounting information"
+    },
+    {
+     "id": 152,
+     "text": "Interpret accounting ratios"
+    },
+    {
+     "id": 153,
+     "text": "Interpret break-even charts"
+    },
+    {
+     "id": 154,
+     "text": "Interpret capital gearing"
+    },
+    {
+     "id": 155,
+     "text": "Interpret current ratio"
+    },
+    {
+     "id": 156,
+     "text": "Interpret expenses in relation to revenue %"
+    },
+    {
+     "id": 157,
+     "text": "Interpret financial measures"
+    },
+    {
+     "id": 158,
+     "text": "Interpret gross profit margin %"
+    },
+    {
+     "id": 159,
+     "text": "Interpret information in graphical forms"
+    },
+    {
+     "id": 160,
+     "text": "Interpret information in numerical forms"
+    },
+    {
+     "id": 161,
+     "text": "Interpret information in written forms"
+    },
+    {
+     "id": 162,
+     "text": "Interpret liquid capital ratio"
+    },
+    {
+     "id": 163,
+     "text": "Interpret markup %"
+    },
+    {
+     "id": 164,
+     "text": "Interpret non-quantitative information in order to make decisions"
+    },
+    {
+     "id": 165,
+     "text": "Interpret profit in relation to revenue %"
+    },
+    {
+     "id": 166,
+     "text": "Interpret quantitative information in order to make decisions"
+    },
+    {
+     "id": 167,
+     "text": "Interpret rate of inventory turnover"
+    },
+    {
+     "id": 168,
+     "text": "Interpret rate of inventory turnover (days)"
+    },
+    {
+     "id": 169,
+     "text": "Interpret ratios"
+    },
+    {
+     "id": 170,
+     "text": "Interpret results of investment appraisal outcomes"
+    },
+    {
+     "id": 171,
+     "text": "Interpret return on capital employed %"
+    },
+    {
+     "id": 172,
+     "text": "Interpret trade payable days"
+    },
+    {
+     "id": 173,
+     "text": "Interpret trade receivable days"
+    },
+    {
+     "id": 174,
+     "text": "Interpret variances"
+    },
+    {
+     "id": 175,
+     "text": "Interpretat break-even point"
+    },
+    {
+     "id": 176,
+     "text": "Knowledge of accounting concepts"
+    },
+    {
+     "id": 177,
+     "text": "Knowledge of accounting principles"
+    },
+    {
+     "id": 178,
+     "text": "Knowledge of accounting techniques"
+    },
+    {
+     "id": 179,
+     "text": "Make entries for depreciation in the income statement"
+    },
+    {
+     "id": 180,
+     "text": "Make entries for depreciation in the statement of financial position"
+    },
+    {
+     "id": 181,
+     "text": "Make entries for irrecoverable debts in financial statements"
+    },
+    {
+     "id": 182,
+     "text": "Make entries for irrecoverable debts in the sales ledger"
+    },
+    {
+     "id": 183,
+     "text": "Make entries for simple adjustments for accruals in income statements"
+    },
+    {
+     "id": 184,
+     "text": "Make entries for simple adjustments for accruals in ledger accounts"
+    },
+    {
+     "id": 185,
+     "text": "Make entries for simple adjustments for accruals in statements of financial position"
+    },
+    {
+     "id": 186,
+     "text": "Make entries for simple adjustments for expense prepayments in income statements"
+    },
+    {
+     "id": 187,
+     "text": "Make entries for simple adjustments for expense prepayments in ledger accounts"
+    },
+    {
+     "id": 188,
+     "text": "Make entries for simple adjustments for expense prepayments in statements of financial position"
+    },
+    {
+     "id": 189,
+     "text": "Make justified decisions"
+    },
+    {
+     "id": 190,
+     "text": "Make reasoned decisions"
+    },
+    {
+     "id": 191,
+     "text": "Prepare accounting records based on source documents"
+    },
+    {
+     "id": 192,
+     "text": "Prepare balance sheets"
+    },
+    {
+     "id": 193,
+     "text": "Prepare balance sheets with subheadings"
+    },
+    {
+     "id": 194,
+     "text": "Prepare budgets"
+    },
+    {
+     "id": 195,
+     "text": "Prepare capital accounts of partners"
+    },
+    {
+     "id": 196,
+     "text": "Prepare current accounts of partners"
+    },
+    {
+     "id": 197,
+     "text": "Prepare documents working from trial balances and additional information"
+    },
+    {
+     "id": 198,
+     "text": "Prepare financial statements for businesses with incomplete records"
+    },
+    {
+     "id": 199,
+     "text": "Prepare financial statements for limited companies"
+    },
+    {
+     "id": 200,
+     "text": "Prepare financial statements for partnerships"
+    },
+    {
+     "id": 201,
+     "text": "Prepare financial statements for sole traders"
+    },
+    {
+     "id": 202,
+     "text": "Prepare financial statements of partnerships"
+    },
+    {
+     "id": 203,
+     "text": "Prepare financial statements of sole traders"
+    },
+    {
+     "id": 204,
+     "text": "Prepare income statements"
+    },
+    {
+     "id": 205,
+     "text": "Prepare information to enable managers to control using absorption costing"
+    },
+    {
+     "id": 206,
+     "text": "Prepare information to enable managers to control using activity based costing"
+    },
+    {
+     "id": 207,
+     "text": "Prepare information to enable managers to control using standard costing"
+    },
+    {
+     "id": 208,
+     "text": "Prepare information to enable managers to make decisions using absorption costing"
+    },
+    {
+     "id": 209,
+     "text": "Prepare information to enable managers to make decisions using activity based costing"
+    },
+    {
+     "id": 210,
+     "text": "Prepare information to enable managers to make decisions using standard costing"
+    },
+    {
+     "id": 211,
+     "text": "Prepare information to enable managers to plan using absorption costing"
+    },
+    {
+     "id": 212,
+     "text": "Prepare information to enable managers to plan using activity based costing"
+    },
+    {
+     "id": 213,
+     "text": "Prepare information to enable managers to plan using standard costing"
+    },
+    {
+     "id": 214,
+     "text": "Prepare information using costing techniques to enable managers to make decisions"
+    },
+    {
+     "id": 215,
+     "text": "Prepare profit and loss accounts"
+    },
+    {
+     "id": 216,
+     "text": "Prepare statements of cash flow"
+    },
+    {
+     "id": 217,
+     "text": "Prepare statements of financial position"
+    },
+    {
+     "id": 218,
+     "text": "Prepare statements of financial position with subheadings"
+    },
+    {
+     "id": 219,
+     "text": "Prepare trading accounts"
+    },
+    {
+     "id": 220,
+     "text": "Present accounting information graphically so that it can be understood by non-accountants"
+    },
+    {
+     "id": 221,
+     "text": "Present accounting information graphically so that it can be used by stakeholders for decision making purposes"
+    },
+    {
+     "id": 222,
+     "text": "Present accounting information in written form so that it can be understood by non-accountants"
+    },
+    {
+     "id": 223,
+     "text": "Present accounting information in written form so that it can be used by stakeholders for decision making purposes"
+    },
+    {
+     "id": 224,
+     "text": "Present accounting information numerically so that it can be understood by non-accountants"
+    },
+    {
+     "id": 225,
+     "text": "Present accounting information numerically so that it can be used by stakeholders for decision making purposes"
+    },
+    {
+     "id": 226,
+     "text": "Provide extended responses from across the full course of study"
+    },
+    {
+     "id": 227,
+     "text": "Record a bonus issue in financial statements"
+    },
+    {
+     "id": 228,
+     "text": "Record a rights issue in financial statements"
+    },
+    {
+     "id": 229,
+     "text": "Record interest on a partner’s loan"
+    },
+    {
+     "id": 230,
+     "text": "Record interest on capital"
+    },
+    {
+     "id": 231,
+     "text": "Record interest on drawings"
+    },
+    {
+     "id": 232,
+     "text": "Record partnership salaries"
+    },
+    {
+     "id": 233,
+     "text": "Record revaluation of assets and treatment of goodwill"
+    },
+    {
+     "id": 234,
+     "text": "Record shares of profit and losses"
+    },
+    {
+     "id": 235,
+     "text": "Record the issue of shares in financial statements"
+    },
+    {
+     "id": 236,
+     "text": "Record transactions using double entry bookkeeping"
+    },
+    {
+     "id": 237,
+     "text": "Recording adjustments"
+    },
+    {
+     "id": 238,
+     "text": "Solve problems logically"
+    },
+    {
+     "id": 239,
+     "text": "Suggest appropriate actions"
+    },
+    {
+     "id": 240,
+     "text": "The focus on performance could include:Understand profitability to determine performance"
+    },
+    {
+     "id": 241,
+     "text": "The requirement to publish accounts could include:Understand the reasons for publishing accounts"
+    },
+    {
+     "id": 242,
+     "text": "Understand a bonus issue"
+    },
+    {
+     "id": 243,
+     "text": "Understand a rights issue"
+    },
+    {
+     "id": 244,
+     "text": "Understand absorption"
+    },
+    {
+     "id": 245,
+     "text": "Understand absorption based costing"
+    },
+    {
+     "id": 246,
+     "text": "Understand accounting concepts"
+    },
+    {
+     "id": 247,
+     "text": "Understand accounting concepts used int he preparation of accounting records"
+    },
+    {
+     "id": 248,
+     "text": "Understand accounting for limited companies"
+    },
+    {
+     "id": 249,
+     "text": "Understand accounting for the revaluation of non-current assets"
+    },
+    {
+     "id": 250,
+     "text": "Understand accounting fro organisations with incomplete records"
+    },
+    {
+     "id": 251,
+     "text": "Understand accounting principles"
+    },
+    {
+     "id": 252,
+     "text": "Understand accounting ratios"
+    },
+    {
+     "id": 253,
+     "text": "Understand accounting records based on source documents"
+    },
+    {
+     "id": 254,
+     "text": "Understand accounting techniques"
+    },
+    {
+     "id": 255,
+     "text": "Understand accounting techniques are applied in the preparation and analysis of financial statements for a business with incomplete records"
+    },
+    {
+     "id": 256,
+     "text": "Understand activity based costing"
+    },
+    {
+     "id": 257,
+     "text": "Understand addition errors revealed by trial balance"
+    },
+    {
+     "id": 258,
+     "text": "Understand allocation"
+    },
+    {
+     "id": 259,
+     "text": "Understand and the effect of transactions on profitability"
+    },
+    {
+     "id": 260,
+     "text": "Understand apportionment"
+    },
+    {
+     "id": 261,
+     "text": "Understand appraisals focused on capital structure"
+    },
+    {
+     "id": 262,
+     "text": "Understand appraisals focused on efficiency"
+    },
+    {
+     "id": 263,
+     "text": "Understand appraisals focused on liquidity"
+    },
+    {
+     "id": 264,
+     "text": "Understand appraisals focused on profitability"
+    },
+    {
+     "id": 265,
+     "text": "Understand appraising business performance by using financial statements"
+    },
+    {
+     "id": 266,
+     "text": "Understand appraising business performance by using ratios"
+    },
+    {
+     "id": 267,
+     "text": "Understand appropriation account"
+    },
+    {
+     "id": 268,
+     "text": "Understand attribution"
+    },
+    {
+     "id": 269,
+     "text": "Understand balancing accounts"
+    },
+    {
+     "id": 270,
+     "text": "Understand bank accounts as an accounting technique to find missing information"
+    },
+    {
+     "id": 271,
+     "text": "Understand bank loan"
+    },
+    {
+     "id": 272,
+     "text": "understand bank overdraft"
+    },
+    {
+     "id": 273,
+     "text": "Understand bank statements"
+    },
+    {
+     "id": 274,
+     "text": "Understand bank statements for credit transfers"
+    },
+    {
+     "id": 275,
+     "text": "Understand bank statements for debit card transactions"
+    },
+    {
+     "id": 276,
+     "text": "Understand bank statements for direct debits"
+    },
+    {
+     "id": 277,
+     "text": "Understand bank statements for direct transfers"
+    },
+    {
+     "id": 278,
+     "text": "Understand bank statements for dishonoured cheques"
+    },
+    {
+     "id": 279,
+     "text": "Understand bank statements for standing orders"
+    },
+    {
+     "id": 280,
+     "text": "Understand benefits of the payback method"
+    },
+    {
+     "id": 281,
+     "text": "Understand benefits of verification techniques"
+    },
+    {
+     "id": 282,
+     "text": "Understand books of prime entry"
+    },
+    {
+     "id": 283,
+     "text": "Understand break-even"
+    },
+    {
+     "id": 284,
+     "text": "Understand break-even analysis methods"
+    },
+    {
+     "id": 285,
+     "text": "Understand break-even calculations"
+    },
+    {
+     "id": 286,
+     "text": "Understand break-even charts"
+    },
+    {
+     "id": 287,
+     "text": "Understand budgeting"
+    },
+    {
+     "id": 288,
+     "text": "Understand calculation of profit or loss on disposal of non-current assets as an accounting technique to find missing information"
+    },
+    {
+     "id": 289,
+     "text": "Understand calculations for allocation of direct costs"
+    },
+    {
+     "id": 290,
+     "text": "Understand calculations for apportionment of indirect costs"
+    },
+    {
+     "id": 291,
+     "text": "Understand calculations for cost drivers to attribute indirect costs to particular products"
+    },
+    {
+     "id": 292,
+     "text": "Understand calculations for overhead absorption rates"
+    },
+    {
+     "id": 293,
+     "text": "Understand calculations for use of cost pools"
+    },
+    {
+     "id": 294,
+     "text": "Understand capital as a subheading in a statement of financial position"
+    },
+    {
+     "id": 295,
+     "text": "Understand capital investment appraisal"
+    },
+    {
+     "id": 296,
+     "text": "Understand capital structure to determine performance"
+    },
+    {
+     "id": 297,
+     "text": "Understand cash"
+    },
+    {
+     "id": 298,
+     "text": "Understand cash accounts as an accounting technique to find missing information"
+    },
+    {
+     "id": 299,
+     "text": "Understand cash discounts"
+    },
+    {
+     "id": 300,
+     "text": "Understand cash receipts"
+    },
+    {
+     "id": 301,
+     "text": "Understand categorisation of costs by behaviour"
+    },
+    {
+     "id": 302,
+     "text": "Understand categorisation of costs by understanding of terms"
+    },
+    {
+     "id": 303,
+     "text": "Understand changes in partnership such as the admission of a new partner"
+    },
+    {
+     "id": 304,
+     "text": "Understand cheque counterfoils"
+    },
+    {
+     "id": 305,
+     "text": "Understand closing balances in statements of changes in equity"
+    },
+    {
+     "id": 306,
+     "text": "Understand codes of practice of CCAB"
+    },
+    {
+     "id": 307,
+     "text": "Understand commission errors not revealed by trial balance"
+    },
+    {
+     "id": 308,
+     "text": "Understand compensating errors not revealed by trial balance"
+    },
+    {
+     "id": 309,
+     "text": "Understand complete reversal errors not revealed by trial balance"
+    },
+    {
+     "id": 310,
+     "text": "Understand confidentiality"
+    },
+    {
+     "id": 311,
+     "text": "Understand contra entries"
+    },
+    {
+     "id": 312,
+     "text": "Understand contra entries between accounts of credit"
+    },
+    {
+     "id": 313,
+     "text": "Understand contribution per unit"
+    },
+    {
+     "id": 314,
+     "text": "Understand contribution total"
+    },
+    {
+     "id": 315,
+     "text": "Understand control\/total accounts as an accounting technique to find missing information"
+    },
+    {
+     "id": 316,
+     "text": "Understand cost driver"
+    },
+    {
+     "id": 317,
+     "text": "Understand cost of capital"
+    },
+    {
+     "id": 318,
+     "text": "Understand cost pool"
+    },
+    {
+     "id": 319,
+     "text": "Understand credit balances in sales ledger"
+    },
+    {
+     "id": 320,
+     "text": "Understand credit notes"
+    },
+    {
+     "id": 321,
+     "text": "Understand current assets as a subheading in a statement of financial position"
+    },
+    {
+     "id": 322,
+     "text": "Understand current liabilities as a subheading in a statement of financial position"
+    },
+    {
+     "id": 323,
+     "text": "Understand customers as external stakeholders"
+    },
+    {
+     "id": 324,
+     "text": "Understand debentures"
+    },
+    {
+     "id": 325,
+     "text": "Understand debit balances in purchases ledger"
+    },
+    {
+     "id": 326,
+     "text": "Understand decision process for closing of potentially loss-making line or production department"
+    },
+    {
+     "id": 327,
+     "text": "Understand decision process for optimum use of scarce resources"
+    },
+    {
+     "id": 328,
+     "text": "Understand decision process for target profit"
+    },
+    {
+     "id": 329,
+     "text": "Understand decision process to accept additional work"
+    },
+    {
+     "id": 330,
+     "text": "Understand decision process to make or buy"
+    },
+    {
+     "id": 331,
+     "text": "Understand decision process to price setting"
+    },
+    {
+     "id": 332,
+     "text": "Understand depreciation of non-current assets as an accounting technique to find missing information"
+    },
+    {
+     "id": 333,
+     "text": "understand different business ownership models"
+    },
+    {
+     "id": 334,
+     "text": "Understand direct costs"
+    },
+    {
+     "id": 335,
+     "text": "Understand discount factor"
+    },
+    {
+     "id": 336,
+     "text": "Understand disposal of non-current assets"
+    },
+    {
+     "id": 337,
+     "text": "Understand dividend cover"
+    },
+    {
+     "id": 338,
+     "text": "Understand dividend yield"
+    },
+    {
+     "id": 339,
+     "text": "Understand dividends paid in statements of changes in equity"
+    },
+    {
+     "id": 340,
+     "text": "Understand due care"
+    },
+    {
+     "id": 341,
+     "text": "Understand earnings per share"
+    },
+    {
+     "id": 342,
+     "text": "Understand efficiency to determine performance"
+    },
+    {
+     "id": 343,
+     "text": "Understand employees as internal stakeholders"
+    },
+    {
+     "id": 344,
+     "text": "Understand entries for the recovery of irrecoverable debts in financial statements"
+    },
+    {
+     "id": 345,
+     "text": "Understand entries for the recovery of irrecoverable debts in the sales ledger"
+    },
+    {
+     "id": 346,
+     "text": "Understand equity as a subheading in a statement of financial position"
+    },
+    {
+     "id": 347,
+     "text": "Understand errors not revealed by a trial balance"
+    },
+    {
+     "id": 348,
+     "text": "Understand errors revealed by a trial balance"
+    },
+    {
+     "id": 349,
+     "text": "Understand financial accounting"
+    },
+    {
+     "id": 350,
+     "text": "Understand financial statements for service businesses"
+    },
+    {
+     "id": 351,
+     "text": "Understand financial statements for trading businesses"
+    },
+    {
+     "id": 352,
+     "text": "Understand financial statements listed in Limited company accounts"
+    },
+    {
+     "id": 353,
+     "text": "Understand fixed costs"
+    },
+    {
+     "id": 354,
+     "text": "Understand fractions"
+    },
+    {
+     "id": 355,
+     "text": "Understand FRC"
+    },
+    {
+     "id": 356,
+     "text": "Understand general accounting concepts"
+    },
+    {
+     "id": 357,
+     "text": "Understand general journal"
+    },
+    {
+     "id": 358,
+     "text": "Understand general ledger account"
+    },
+    {
+     "id": 359,
+     "text": "Understand government as external stakeholders"
+    },
+    {
+     "id": 360,
+     "text": "Understand how accounting measures are used to analyse financial accounting information"
+    },
+    {
+     "id": 361,
+     "text": "Understand how accounting measures are used to analyse management accounting information"
+    },
+    {
+     "id": 362,
+     "text": "Understand how accounting measures are used to interpret financial accounting information"
+    },
+    {
+     "id": 363,
+     "text": "Understand how accounting measures are used to interpret management accounting information"
+    },
+    {
+     "id": 364,
+     "text": "Understand how accounting techniques are used to analyse financial accounting information"
+    },
+    {
+     "id": 365,
+     "text": "Understand how accounting techniques are used to analyse management accounting information"
+    },
+    {
+     "id": 366,
+     "text": "Understand how accounting techniques are used to interpret financial accounting information"
+    },
+    {
+     "id": 367,
+     "text": "Understand how accounting techniques are used to interpret management accounting information"
+    },
+    {
+     "id": 368,
+     "text": "Understand how budgets are used in control"
+    },
+    {
+     "id": 369,
+     "text": "Understand how budgets are used in planning"
+    },
+    {
+     "id": 370,
+     "text": "Understand how errors apply to bank reconciliations"
+    },
+    {
+     "id": 371,
+     "text": "Understand how errors apply to control accounts"
+    },
+    {
+     "id": 372,
+     "text": "Understand how performance is evaluated across accounting periods"
+    },
+    {
+     "id": 373,
+     "text": "Understand how performance is evaluated externally"
+    },
+    {
+     "id": 374,
+     "text": "Understand how performance is evaluated in comparison to competitors"
+    },
+    {
+     "id": 375,
+     "text": "Understand how published accounts are used by a variety of stakeholders"
+    },
+    {
+     "id": 376,
+     "text": "Understand how ratios are used to analyse financial accounting information"
+    },
+    {
+     "id": 377,
+     "text": "Understand how ratios are used to analyse management accounting information"
+    },
+    {
+     "id": 378,
+     "text": "Understand how ratios are used to interpret financial accounting information"
+    },
+    {
+     "id": 379,
+     "text": "Understand how ratios are used to interpret management accounting information"
+    },
+    {
+     "id": 380,
+     "text": "Understand how the principles of ethical behaviour impact the behaviour of accounting professionals"
+    },
+    {
+     "id": 381,
+     "text": "Understand how the principles of ethical behaviour impact the behaviour of organisations"
+    },
+    {
+     "id": 382,
+     "text": "Understand how to act ethically when workign with stakeholders"
+    },
+    {
+     "id": 383,
+     "text": "Understand how to act ethically when working with colleagues"
+    },
+    {
+     "id": 384,
+     "text": "Understand how to correct errors in double entry records"
+    },
+    {
+     "id": 385,
+     "text": "Understand how to ethically when working with clients"
+    },
+    {
+     "id": 386,
+     "text": "Understand how to ethically when working with suppliers"
+    },
+    {
+     "id": 387,
+     "text": "Understand how to prepare financial statements of sole traders from ledger accounts including adjustments from the application of accounting concepts"
+    },
+    {
+     "id": 388,
+     "text": "Understand how to prepare income statements for internal use"
+    },
+    {
+     "id": 389,
+     "text": "Understand how to prepare income statements from a trial balance including adjustments from the application of accounting concepts"
+    },
+    {
+     "id": 390,
+     "text": "Understand how to prepare income statements that distinguish between profit for the year after tax"
+    },
+    {
+     "id": 391,
+     "text": "Understand how to prepare income statements that distinguish between profit for the year before tax"
+    },
+    {
+     "id": 392,
+     "text": "Understand how to prepare income statements that distinguish between profit from operations"
+    },
+    {
+     "id": 393,
+     "text": "Understand how to prepare statement of changes in equity for internal use"
+    },
+    {
+     "id": 394,
+     "text": "Understand how to prepare statement of financial position for internal use"
+    },
+    {
+     "id": 395,
+     "text": "Understand how to prepare statements"
+    },
+    {
+     "id": 396,
+     "text": "Understand how to prepare statements of financial position from a trial balance including adjustments from the application of accounting concepts"
+    },
+    {
+     "id": 397,
+     "text": "Understand how to prepare the internal financial statements of limited liability companies"
+    },
+    {
+     "id": 398,
+     "text": "Understand how to provide relevant information using accounting information systems"
+    },
+    {
+     "id": 399,
+     "text": "Understand how to provide reliable information using accounting information systems"
+    },
+    {
+     "id": 400,
+     "text": "Understand how to verify accounting records"
+    },
+    {
+     "id": 401,
+     "text": "Understand identifying errors that are not revealed by the relevant verification technique"
+    },
+    {
+     "id": 402,
+     "text": "Understand identifying errors that are revealed by the relevant verification technique"
+    },
+    {
+     "id": 403,
+     "text": "Understand impact of recommendations on he local economy"
+    },
+    {
+     "id": 404,
+     "text": "Understand impact of recommendations on stakeholders"
+    },
+    {
+     "id": 405,
+     "text": "Understand impact of recommendations on the environment"
+    },
+    {
+     "id": 406,
+     "text": "Understand impact of recommendations on the national economy"
+    },
+    {
+     "id": 407,
+     "text": "Understand impact of systems of recording data"
+    },
+    {
+     "id": 408,
+     "text": "Understand importance of effective communication to external stakeholders"
+    },
+    {
+     "id": 409,
+     "text": "Understand importance of effective communication to internal stakeholders"
+    },
+    {
+     "id": 410,
+     "text": "Understand income statement"
+    },
+    {
+     "id": 411,
+     "text": "Understand indirect costs"
+    },
+    {
+     "id": 412,
+     "text": "Understand integrity"
+    },
+    {
+     "id": 413,
+     "text": "Understand interest charged on overdue accounts"
+    },
+    {
+     "id": 414,
+     "text": "Understand interest cover"
+    },
+    {
+     "id": 415,
+     "text": "Understand international terminology of accounting ratios"
+    },
+    {
+     "id": 416,
+     "text": "Understand international terminology of financial statements"
+    },
+    {
+     "id": 417,
+     "text": "Understand interrelationship between variances"
+    },
+    {
+     "id": 418,
+     "text": "Understand irrecoverable debts"
+    },
+    {
+     "id": 419,
+     "text": "Understand labour (efficiency and rate) as vaiances"
+    },
+    {
+     "id": 420,
+     "text": "Understand lenders as external stakeholders"
+    },
+    {
+     "id": 421,
+     "text": "Understand limitations of financial statements to assess business performance"
+    },
+    {
+     "id": 422,
+     "text": "Understand limitations relating to financial factors"
+    },
+    {
+     "id": 423,
+     "text": "Understand limitations relating to non-financial factors"
+    },
+    {
+     "id": 424,
+     "text": "Understand limited company accounts"
+    },
+    {
+     "id": 425,
+     "text": "Understand local community as external stakeholders"
+    },
+    {
+     "id": 426,
+     "text": "Understand management accounting"
+    },
+    {
+     "id": 427,
+     "text": "Understand management as internal stakeholders"
+    },
+    {
+     "id": 428,
+     "text": "Understand marginal cost"
+    },
+    {
+     "id": 429,
+     "text": "Understand marginal costing"
+    },
+    {
+     "id": 430,
+     "text": "Understand materials (price and usage) as variances"
+    },
+    {
+     "id": 431,
+     "text": "Understand memorandum records as control accounts"
+    },
+    {
+     "id": 432,
+     "text": "Understand mortgage"
+    },
+    {
+     "id": 433,
+     "text": "Understand net present value"
+    },
+    {
+     "id": 434,
+     "text": "Understand net present value (discounted cash flow) of a capital project"
+    },
+    {
+     "id": 435,
+     "text": "Understand non-current assets as a subheading in a statement of financial position"
+    },
+    {
+     "id": 436,
+     "text": "Understand non-current liabilities as a subheading in a statement of financial position"
+    },
+    {
+     "id": 437,
+     "text": "Understand objectivity"
+    },
+    {
+     "id": 438,
+     "text": "Understand omission errors not revealed by trial balance"
+    },
+    {
+     "id": 439,
+     "text": "Understand opening balances in statements of changes in equity"
+    },
+    {
+     "id": 440,
+     "text": "Understand ordinary shares"
+    },
+    {
+     "id": 441,
+     "text": "Understand original entry errors not revealed by trial balance"
+    },
+    {
+     "id": 442,
+     "text": "Understand over-absorption"
+    },
+    {
+     "id": 443,
+     "text": "Understand owner’s capital"
+    },
+    {
+     "id": 444,
+     "text": "Understand owners\/shareholders as internal stakeholders"
+    },
+    {
+     "id": 445,
+     "text": "Understand partial ommission errors revealed by trial balance"
+    },
+    {
+     "id": 446,
+     "text": "Understand partners’ capital"
+    },
+    {
+     "id": 447,
+     "text": "Understand partnership accounts"
+    },
+    {
+     "id": 448,
+     "text": "Understand payables ledger"
+    },
+    {
+     "id": 449,
+     "text": "Understand payback of a capital project"
+    },
+    {
+     "id": 450,
+     "text": "Understand payback period"
+    },
+    {
+     "id": 451,
+     "text": "Understand paying-in slip counterfoils"
+    },
+    {
+     "id": 452,
+     "text": "Understand percentage changes"
+    },
+    {
+     "id": 453,
+     "text": "Understand percentages"
+    },
+    {
+     "id": 454,
+     "text": "Understand price earnings"
+    },
+    {
+     "id": 455,
+     "text": "Understand principle errors not revealed by trial balance"
+    },
+    {
+     "id": 456,
+     "text": "Understand professional behaviour"
+    },
+    {
+     "id": 457,
+     "text": "Understand professional competence"
+    },
+    {
+     "id": 458,
+     "text": "Understand profit (or loss) for the year in statements of changes in equity"
+    },
+    {
+     "id": 459,
+     "text": "Understand profits"
+    },
+    {
+     "id": 460,
+     "text": "Understand purchase invoices"
+    },
+    {
+     "id": 461,
+     "text": "Understand purchases journal"
+    },
+    {
+     "id": 462,
+     "text": "Understand purchases returns journal"
+    },
+    {
+     "id": 463,
+     "text": "Understand quantitative skills in accounting"
+    },
+    {
+     "id": 464,
+     "text": "Understand ratios"
+    },
+    {
+     "id": 465,
+     "text": "Understand ratios (mark up, gross profit margin, inventory turnover, profit in relation to revenue) as an accounting technique to find missing information"
+    },
+    {
+     "id": 466,
+     "text": "Understand receivables ledger"
+    },
+    {
+     "id": 467,
+     "text": "Understand reconciliation of budget and actual cost"
+    },
+    {
+     "id": 468,
+     "text": "Understand reconciliation of budget and actual profit"
+    },
+    {
+     "id": 469,
+     "text": "Understand recording accruals and prepayments with the use of accounting concepts"
+    },
+    {
+     "id": 470,
+     "text": "Understand recording depreciation using straight line and reducing balance methods with the use of accounting concepts"
+    },
+    {
+     "id": 471,
+     "text": "Understand recording disposal of non-current assets with the use of provision for doubtful debts with the use of accounting concepts"
+    },
+    {
+     "id": 472,
+     "text": "Understand recording goods taken for own use goods on sale or return with the use of accounting statements"
+    },
+    {
+     "id": 473,
+     "text": "Understand recording income due with the use of accounting concepts"
+    },
+    {
+     "id": 474,
+     "text": "Understand recording income received in advance with the use of accounting statements"
+    },
+    {
+     "id": 475,
+     "text": "Understand recording inventory with the use of accounting statements"
+    },
+    {
+     "id": 476,
+     "text": "Understand recording the recovery of irrecoverable debts with the use of accounting statements"
+    },
+    {
+     "id": 477,
+     "text": "Understand role of professional bodies in establishing codes of conduct"
+    },
+    {
+     "id": 478,
+     "text": "Understand sales (volume and price) as variances"
+    },
+    {
+     "id": 479,
+     "text": "Understand sales invoices"
+    },
+    {
+     "id": 480,
+     "text": "Understand sales journal"
+    },
+    {
+     "id": 481,
+     "text": "Understand sales returns journal"
+    },
+    {
+     "id": 482,
+     "text": "Understand schedules of non-current assets"
+    },
+    {
+     "id": 483,
+     "text": "Understand semi-variable costs"
+    },
+    {
+     "id": 484,
+     "text": "Understand share issues including those made at a premium in statements of changes in equity"
+    },
+    {
+     "id": 485,
+     "text": "Understand skills in accounting"
+    },
+    {
+     "id": 486,
+     "text": "Understand sources of finance for different forms of business organisation"
+    },
+    {
+     "id": 487,
+     "text": "Understand standard cost"
+    },
+    {
+     "id": 488,
+     "text": "Understand standard costing"
+    },
+    {
+     "id": 489,
+     "text": "Understand statement of financial position"
+    },
+    {
+     "id": 490,
+     "text": "Understand statements of cash flow (in accordance with IAS7 using the indirect method)"
+    },
+    {
+     "id": 491,
+     "text": "Understand statements of changes in equity"
+    },
+    {
+     "id": 492,
+     "text": "Understand stepped costs"
+    },
+    {
+     "id": 493,
+     "text": "Understand suppliers as external stakeholders"
+    },
+    {
+     "id": 494,
+     "text": "Understand teh role of the accountant inpreparing management accounting information"
+    },
+    {
+     "id": 495,
+     "text": "Understand the accounting concept of accruals"
+    },
+    {
+     "id": 496,
+     "text": "Understand the accounting concept of business entity"
+    },
+    {
+     "id": 497,
+     "text": "Understand the accounting concept of consistency"
+    },
+    {
+     "id": 498,
+     "text": "Understand the accounting concept of cost"
+    },
+    {
+     "id": 499,
+     "text": "Understand the accounting concept of duality"
+    },
+    {
+     "id": 500,
+     "text": "Understand the accounting concept of going concern"
+    },
+    {
+     "id": 501,
+     "text": "Understand the accounting concept of materiality"
+    },
+    {
+     "id": 502,
+     "text": "Understand the accounting concept of prudence"
+    },
+    {
+     "id": 503,
+     "text": "Understand the accounting concept of realisation"
+    },
+    {
+     "id": 504,
+     "text": "Understand the accountingconcept of money measurement"
+    },
+    {
+     "id": 505,
+     "text": "Understand the advantages  of computerised systems for recording accounting data compared to manual methods"
+    },
+    {
+     "id": 506,
+     "text": "Understand the advantages of a standard costing system"
+    },
+    {
+     "id": 507,
+     "text": "Understand the advantages of doubly entry recording systems"
+    },
+    {
+     "id": 508,
+     "text": "Understand the advantages of single entry recording systems"
+    },
+    {
+     "id": 509,
+     "text": "Understand the advantages of systems of recording data"
+    },
+    {
+     "id": 510,
+     "text": "Understand the and disadvantages of a standard costing system"
+    },
+    {
+     "id": 511,
+     "text": "Understand the appropriate course of action to take if there is a suspicion that an illegal act has been, or may be, committed by an client"
+    },
+    {
+     "id": 512,
+     "text": "Understand the appropriate course of action to take if there is a suspicion that an illegal act has been, or may be, committed by an colleague"
+    },
+    {
+     "id": 513,
+     "text": "Understand the appropriate course of action to take if there is a suspicion that an illegal act has been, or may be, committed by an employer"
+    },
+    {
+     "id": 514,
+     "text": "Understand the appropriate course of action to take if there is a suspicion that an unethical act has been, or may be, committed by an client"
+    },
+    {
+     "id": 515,
+     "text": "Understand the appropriate course of action to take if there is a suspicion that an unethical act has been, or may be, committed by an colleague"
+    },
+    {
+     "id": 516,
+     "text": "Understand the appropriate course of action to take if there is a suspicion that an unethical act has been, or may be, committed by an employer"
+    },
+    {
+     "id": 517,
+     "text": "Understand the associated benefits on business reporting"
+    },
+    {
+     "id": 518,
+     "text": "Understand the associated impact on business reporting"
+    },
+    {
+     "id": 519,
+     "text": "Understand the associated risks on business reporting"
+    },
+    {
+     "id": 520,
+     "text": "Understand the bank reconciliation statements verification technique"
+    },
+    {
+     "id": 521,
+     "text": "Understand the benefits of ABC"
+    },
+    {
+     "id": 522,
+     "text": "Understand the benefits of absporption"
+    },
+    {
+     "id": 523,
+     "text": "Understand the benefits of budgetary control"
+    },
+    {
+     "id": 524,
+     "text": "Understand the benefits of budgeting"
+    },
+    {
+     "id": 525,
+     "text": "Understand the benefits of maintaining accounting records using different systems"
+    },
+    {
+     "id": 526,
+     "text": "Understand the benefits of maintaining accounting records using double entry records"
+    },
+    {
+     "id": 527,
+     "text": "Understand the benefits of maintaining accounting records using single entry records"
+    },
+    {
+     "id": 528,
+     "text": "Understand the benefits of marginal costing"
+    },
+    {
+     "id": 529,
+     "text": "Understand the benefits of published accounts"
+    },
+    {
+     "id": 530,
+     "text": "Understand the benefits of the net present value methods of capital investment appraisal"
+    },
+    {
+     "id": 531,
+     "text": "Understand the business organisation type  public limited liability companies (plc)"
+    },
+    {
+     "id": 532,
+     "text": "Understand the business organisation type partnerships"
+    },
+    {
+     "id": 533,
+     "text": "Understand the business organisation type private (Ltd)"
+    },
+    {
+     "id": 534,
+     "text": "Understand the business organisation type sole traders"
+    },
+    {
+     "id": 535,
+     "text": "Understand the calculation of cash flows in capital investment appraisal"
+    },
+    {
+     "id": 536,
+     "text": "Understand the calculation of variances"
+    },
+    {
+     "id": 537,
+     "text": "Understand the CIMA regulatory framework"
+    },
+    {
+     "id": 538,
+     "text": "Understand the Companies Act"
+    },
+    {
+     "id": 539,
+     "text": "Understand the comparison of inventory valuations and profit calculations made using ABC"
+    },
+    {
+     "id": 540,
+     "text": "Understand the comparison of inventory valuations and profit calculations made using absorption"
+    },
+    {
+     "id": 541,
+     "text": "Understand the comparison of inventory valuations and profit calculations made usingmarginal costing"
+    },
+    {
+     "id": 542,
+     "text": "Understand the consequences of failing to work within regulatory guidelines"
+    },
+    {
+     "id": 543,
+     "text": "Understand the consideration of non-financial factors for decision making"
+    },
+    {
+     "id": 544,
+     "text": "Understand the critical assessment of recommendations"
+    },
+    {
+     "id": 545,
+     "text": "Understand the definition of appropriation account (partnerships)"
+    },
+    {
+     "id": 546,
+     "text": "Understand the definition of cash and cash equivalents (limited companies)"
+    },
+    {
+     "id": 547,
+     "text": "Understand the definition of expenses in relation to revenue %"
+    },
+    {
+     "id": 548,
+     "text": "Understand the definition of financial statements"
+    },
+    {
+     "id": 549,
+     "text": "Understand the definition of income statement"
+    },
+    {
+     "id": 550,
+     "text": "Understand the definition of inventory"
+    },
+    {
+     "id": 551,
+     "text": "Understand the definition of irrecoverable debt"
+    },
+    {
+     "id": 552,
+     "text": "Understand the definition of loss for year"
+    },
+    {
+     "id": 553,
+     "text": "Understand the definition of non-current assets"
+    },
+    {
+     "id": 554,
+     "text": "Understand the definition of non-current liabilities"
+    },
+    {
+     "id": 555,
+     "text": "Understand the definition of other payables"
+    },
+    {
+     "id": 556,
+     "text": "Understand the definition of other receivables"
+    },
+    {
+     "id": 557,
+     "text": "Understand the definition of profit for year"
+    },
+    {
+     "id": 558,
+     "text": "Understand the definition of profit to revenue %"
+    },
+    {
+     "id": 559,
+     "text": "Understand the definition of rate of inventory turnover"
+    },
+    {
+     "id": 560,
+     "text": "Understand the definition of revenue (within an income statement)"
+    },
+    {
+     "id": 561,
+     "text": "Understand the definition of statement of financial position"
+    },
+    {
+     "id": 562,
+     "text": "Understand the definition of trade payable days"
+    },
+    {
+     "id": 563,
+     "text": "Understand the definition of trade payables"
+    },
+    {
+     "id": 564,
+     "text": "Understand the definition of trade receivable days"
+    },
+    {
+     "id": 565,
+     "text": "Understand the definition of trade receivables"
+    },
+    {
+     "id": 566,
+     "text": "Understand the difference between cash and profits"
+    },
+    {
+     "id": 567,
+     "text": "Understand the difference between the issue of shares, a rights issue and a bonus issue"
+    },
+    {
+     "id": 568,
+     "text": "Understand the disadvantages of computerised systems for recording accounting data compared to manual methods"
+    },
+    {
+     "id": 569,
+     "text": "Understand the disadvantages of double entry recording systems"
+    },
+    {
+     "id": 570,
+     "text": "Understand the disadvantages of single entry recording systems"
+    },
+    {
+     "id": 571,
+     "text": "Understand the disadvantages of systems of recording data"
+    },
+    {
+     "id": 572,
+     "text": "Understand the double entry model"
+    },
+    {
+     "id": 573,
+     "text": "Understand the double entry system"
+    },
+    {
+     "id": 574,
+     "text": "Understand the effect of errors on profit calculations"
+    },
+    {
+     "id": 575,
+     "text": "Understand the effect of erros on statements of financial position"
+    },
+    {
+     "id": 576,
+     "text": "Understand the effect of transactions on liquidity"
+    },
+    {
+     "id": 577,
+     "text": "Understand the effect of transactions on profitability"
+    },
+    {
+     "id": 578,
+     "text": "Understand the effect of trasactions on liquidity"
+    },
+    {
+     "id": 579,
+     "text": "Understand the features of accounting software"
+    },
+    {
+     "id": 580,
+     "text": "Understand the fundamental principles of ethical behaviour"
+    },
+    {
+     "id": 581,
+     "text": "Understand the IAS1"
+    },
+    {
+     "id": 582,
+     "text": "Understand the IAS7"
+    },
+    {
+     "id": 583,
+     "text": "Understand the impact of ethical considerations"
+    },
+    {
+     "id": 584,
+     "text": "Understand the impact of principles of ethical behaviour on the role and composition of remittance committee"
+    },
+    {
+     "id": 585,
+     "text": "Understand the impact of principles of ethical behaviour on the role of auditors and the audit report"
+    },
+    {
+     "id": 586,
+     "text": "Understand the impact of principles of ethical behaviour on the role of composition of board of directors"
+    },
+    {
+     "id": 587,
+     "text": "Understand the impact of principles of ethical behaviour on the role of corporate governance"
+    },
+    {
+     "id": 588,
+     "text": "Understand the impact of principles of ethical behaviour on the role of corporate social responsibility"
+    },
+    {
+     "id": 589,
+     "text": "Understand the impact of principles of ethical behaviour on the role of the accountant in business"
+    },
+    {
+     "id": 590,
+     "text": "Understand the impact of principles of ethical behaviour on the role of the role of the accountant in public practice"
+    },
+    {
+     "id": 591,
+     "text": "Understand the importance of adhering to codes of practice"
+    },
+    {
+     "id": 592,
+     "text": "Understand the importance of adhering to organisational value"
+    },
+    {
+     "id": 593,
+     "text": "Understand the importance of adhering to professional value"
+    },
+    {
+     "id": 594,
+     "text": "Understand the importance of adhering to regulations"
+    },
+    {
+     "id": 595,
+     "text": "Understand the importance of the international accounting standards framework"
+    },
+    {
+     "id": 596,
+     "text": "Understand the importance of working within regulatory guidelines"
+    },
+    {
+     "id": 597,
+     "text": "Understand the interests of stakeholders"
+    },
+    {
+     "id": 598,
+     "text": "Understand the interpretation of variances"
+    },
+    {
+     "id": 599,
+     "text": "Understand the issue of shares"
+    },
+    {
+     "id": 600,
+     "text": "Understand the legal frameworks which relate to the accounting sector"
+    },
+    {
+     "id": 601,
+     "text": "Understand the limitations of ABC"
+    },
+    {
+     "id": 602,
+     "text": "Understand the limitations of absporption"
+    },
+    {
+     "id": 603,
+     "text": "Understand the limitations of break-even analysis methods"
+    },
+    {
+     "id": 604,
+     "text": "Understand the limitations of budgetary control"
+    },
+    {
+     "id": 605,
+     "text": "Understand the limitations of budgeting"
+    },
+    {
+     "id": 606,
+     "text": "Understand the limitations of maintaining accounting records using different systems"
+    },
+    {
+     "id": 607,
+     "text": "Understand the limitations of maintaining accounting records using double entry records"
+    },
+    {
+     "id": 608,
+     "text": "Understand the limitations of maintaining accounting records using single entry records"
+    },
+    {
+     "id": 609,
+     "text": "Understand the limitations of marginal costing"
+    },
+    {
+     "id": 610,
+     "text": "Understand the limitations of published accounts"
+    },
+    {
+     "id": 611,
+     "text": "Understand the limitations of ratio analysis to assess business performance"
+    },
+    {
+     "id": 612,
+     "text": "Understand the limitations of the net present value methods of capital investment appraisal"
+    },
+    {
+     "id": 613,
+     "text": "Understand the limitations of the payback method"
+    },
+    {
+     "id": 614,
+     "text": "Understand the limitations of using financial statement when assessing business information"
+    },
+    {
+     "id": 615,
+     "text": "Understand the limitations of using ratio analysis when assessing business performance"
+    },
+    {
+     "id": 616,
+     "text": "Understand the limitations of verification techniques"
+    },
+    {
+     "id": 617,
+     "text": "Understand the main applications of accounting software"
+    },
+    {
+     "id": 618,
+     "text": "Understand the main elements in published accounts"
+    },
+    {
+     "id": 619,
+     "text": "Understand the need for budgeting in business organisations"
+    },
+    {
+     "id": 620,
+     "text": "Understand the preparation of statements of financial position"
+    },
+    {
+     "id": 621,
+     "text": "Understand the purchases ledger control accounts verification technique"
+    },
+    {
+     "id": 622,
+     "text": "Understand the purpose of a standard costing system"
+    },
+    {
+     "id": 623,
+     "text": "Understand the purpose of budgeting"
+    },
+    {
+     "id": 624,
+     "text": "Understand the purpose of financial accounting"
+    },
+    {
+     "id": 625,
+     "text": "Understand the purpose of management accounting"
+    },
+    {
+     "id": 626,
+     "text": "Understand the purpose of published accounts as required by IAS1Companies Acts"
+    },
+    {
+     "id": 627,
+     "text": "Understand the purpose of the international accounting standards framework"
+    },
+    {
+     "id": 628,
+     "text": "Understand the recording of adjustments in financial statements"
+    },
+    {
+     "id": 629,
+     "text": "Understand the recording of adjustments in ledger accounts"
+    },
+    {
+     "id": 630,
+     "text": "Understand the recording of irrecoverable debts with the use of accounting concepts"
+    },
+    {
+     "id": 631,
+     "text": "Understand the recording of transactions from ledger accounts"
+    },
+    {
+     "id": 632,
+     "text": "Understand the recording of transactions from source documents in books of prime entry"
+    },
+    {
+     "id": 633,
+     "text": "Understand the reducing balance method"
+    },
+    {
+     "id": 634,
+     "text": "Understand the regulatory frameworks which relate to the accounting sector"
+    },
+    {
+     "id": 635,
+     "text": "Understand the requirement to publish accounts"
+    },
+    {
+     "id": 636,
+     "text": "Understand the responsibilities of the accountant within business."
+    },
+    {
+     "id": 637,
+     "text": "Understand the role of European Union"
+    },
+    {
+     "id": 638,
+     "text": "Understand the role of Finance Reporting Council (FRC)"
+    },
+    {
+     "id": 639,
+     "text": "Understand the role of Government (Department of Business, Innovation and Skills – BIS)"
+    },
+    {
+     "id": 640,
+     "text": "Understand the role of professional bodies in enforcing codes of conduct"
+    },
+    {
+     "id": 641,
+     "text": "Understand the role of the accountant in developing accounting information systems"
+    },
+    {
+     "id": 642,
+     "text": "Understand the role of the accountant in evaluating accounting information systems"
+    },
+    {
+     "id": 643,
+     "text": "Understand the role of the accountant in overseeing accounting information systems"
+    },
+    {
+     "id": 644,
+     "text": "Understand the role of the accountant in praparing financial accounting information"
+    },
+    {
+     "id": 645,
+     "text": "Understand the role of the accountant includes overseeing the work of bookkeepers"
+    },
+    {
+     "id": 646,
+     "text": "Understand the role of the accountant includes overseeing the work of ledger clerks"
+    },
+    {
+     "id": 647,
+     "text": "Understand the role of the Chartered Institute of Management Accountants (CIMA)"
+    },
+    {
+     "id": 648,
+     "text": "Understand the role of the Consultative Committee of Accountancy Bodies (CCAB)"
+    },
+    {
+     "id": 649,
+     "text": "Understand the sales ledger control accounts verification technique"
+    },
+    {
+     "id": 650,
+     "text": "Understand the straight line method"
+    },
+    {
+     "id": 651,
+     "text": "Understand the the risks related to those sources of finance for diferent forms of business organisation"
+    },
+    {
+     "id": 652,
+     "text": "Understand the trial balance verification technique"
+    },
+    {
+     "id": 653,
+     "text": "Understand the use of ABC to calculate the selling price of a product"
+    },
+    {
+     "id": 654,
+     "text": "Understand the use of absorption costing to calculate the total cost of a product"
+    },
+    {
+     "id": 655,
+     "text": "Understand the use of absorption to calcualte the selling price of a product"
+    },
+    {
+     "id": 656,
+     "text": "Understand the use of accounting concepts in a variety of situations"
+    },
+    {
+     "id": 657,
+     "text": "Understand the use of accounting concepts in depreciation of non-current assets"
+    },
+    {
+     "id": 658,
+     "text": "Understand the use of accounting concepts in goods sold on a sale or return basis"
+    },
+    {
+     "id": 659,
+     "text": "Understand the use of accounting concepts in inventories i.e. using cost or net realisable value as the basis for valuation"
+    },
+    {
+     "id": 660,
+     "text": "Understand the use of accounting concepts in recording the purchase of non-current assets"
+    },
+    {
+     "id": 661,
+     "text": "Understand the use of accounting concepts in recording transactions in ledger accounts"
+    },
+    {
+     "id": 662,
+     "text": "Understand the use of accounting concepts in the preparation of financial statements"
+    },
+    {
+     "id": 663,
+     "text": "Understand the use of accounting information systems for financial accounting purposes"
+    },
+    {
+     "id": 664,
+     "text": "Understand the use of accounting information systems for management accounting purposes"
+    },
+    {
+     "id": 665,
+     "text": "Understand the use of accounting principles when drafting financial statements for limited companies (based on IAS1)"
+    },
+    {
+     "id": 666,
+     "text": "Understand the use of accounting statements in asset valuation"
+    },
+    {
+     "id": 667,
+     "text": "Understand the use of accounting techniques in analysing of budgets"
+    },
+    {
+     "id": 668,
+     "text": "Understand the use of accounting techniques in the preparation of budgets"
+    },
+    {
+     "id": 669,
+     "text": "Understand the use of accounting techniques to reconcile actual figures"
+    },
+    {
+     "id": 670,
+     "text": "Understand the use of accounting techniques to reconcile budgeted figures"
+    },
+    {
+     "id": 671,
+     "text": "Understand the use of accounting techniques when drafting financial statements for limited companies (based on IAS1)"
+    },
+    {
+     "id": 672,
+     "text": "Understand the use of activity based costing (ABC) to calculate the total cost of a product"
+    },
+    {
+     "id": 673,
+     "text": "Understand the use of capital appraisal measures in the evaluation of projects"
+    },
+    {
+     "id": 674,
+     "text": "Understand the use of cash flows in capital investment appraisal"
+    },
+    {
+     "id": 675,
+     "text": "Understand the use of financial statements to find missing figures as an accounting technique to find missing information"
+    },
+    {
+     "id": 676,
+     "text": "Understand the use of marginal costing in decision making situations"
+    },
+    {
+     "id": 677,
+     "text": "Understand the use of marginal costing techniques for decision making"
+    },
+    {
+     "id": 678,
+     "text": "Understand the use of statements of affairs to calculate profit of an organisation where there are insufficient records to prepare income statements"
+    },
+    {
+     "id": 679,
+     "text": "Understand the uses of break-even analysis methods"
+    },
+    {
+     "id": 680,
+     "text": "Understand the value of published accounts to relevant stakeholders"
+    },
+    {
+     "id": 681,
+     "text": "Understand the verification of double entry records"
+    },
+    {
+     "id": 682,
+     "text": "Understand three column cash book"
+    },
+    {
+     "id": 683,
+     "text": "Understand till rolls"
+    },
+    {
+     "id": 684,
+     "text": "Understand trade discounts"
+    },
+    {
+     "id": 685,
+     "text": "Understand transactions for service businesses"
+    },
+    {
+     "id": 686,
+     "text": "Understand transactions for trading businesses"
+    },
+    {
+     "id": 687,
+     "text": "Understand transactions implied"
+    },
+    {
+     "id": 688,
+     "text": "Understand transactions stated"
+    },
+    {
+     "id": 689,
+     "text": "Understand transferring accounts to income statements"
+    },
+    {
+     "id": 690,
+     "text": "Understand transposition errors revealed by trial balance"
+    },
+    {
+     "id": 691,
+     "text": "Understand types of business organisations"
+    },
+    {
+     "id": 692,
+     "text": "Understand typs of business organisations"
+    },
+    {
+     "id": 693,
+     "text": "Understand under-absorption"
+    },
+    {
+     "id": 694,
+     "text": "Understand unequal posting errors revealed by trial balance"
+    },
+    {
+     "id": 695,
+     "text": "Understand using suspense account to correct errors"
+    },
+    {
+     "id": 696,
+     "text": "Understand using the general journal to correct errors"
+    },
+    {
+     "id": 697,
+     "text": "Understand variable costs"
+    },
+    {
+     "id": 698,
+     "text": "Understand variance analysis"
+    },
+    {
+     "id": 699,
+     "text": "Undertake financial decision making"
+    },
+    {
+     "id": 700,
+     "text": "Undertsand how performance is evaluated internally"
+    },
+    {
+     "id": 701,
+     "text": "Unerstand liquidity to determine performance"
+    },
+    {
+     "id": 702,
+     "text": "Use different reporting methods to communicate justifications for decisions to stakeholders"
+    },
+    {
+     "id": 703,
+     "text": "Use discounting techniques"
+    },
+    {
+     "id": 704,
+     "text": "Use fractions"
+    },
+    {
+     "id": 705,
+     "text": "Use non-quantitative information in order to make decisions"
+    },
+    {
+     "id": 706,
+     "text": "Use percentage changes"
+    },
+    {
+     "id": 707,
+     "text": "Use percentages"
+    },
+    {
+     "id": 708,
+     "text": "Use quantitative information in order to make decisions"
+    },
+    {
+     "id": 709,
+     "text": "Use ratios"
+    },
+    {
+     "id": 710,
+     "text": "Use the double entry model to control"
+    },
+    {
+     "id": 711,
+     "text": "Use the double entry model to enable management to plan"
+    },
+    {
+     "id": 712,
+     "text": "Use the double entry model to make decisions"
+    },
+    {
+     "id": 713,
+     "text": "Use the double entry model to prepare financial statements for different types of organisations"
+    },
+    {
+     "id": 714,
+     "text": "Use the double entry model to prepare management accounting information"
+    },
+    {
+     "id": 715,
+     "text": "Use the double entry model to record transactions"
+    },
+    {
+     "id": 716,
+     "text": "Use the formula for calculating current ratio expressed as x:1"
+    },
+    {
+     "id": 717,
+     "text": "Use the formula to calcualte the ratio for liquid capital expressed as x:1"
+    },
+    {
+     "id": 718,
+     "text": "Use the formula to calculate the ratio for rate of inventory turnover of average inventory (normally the average of the opening and closing inventories)"
+    },
+    {
+     "id": 719,
+     "text": "Use the formula to calculate the ratio for return on capital employed (limited company) of equity + non-current liabilities (either opening or closing figure for equity could be used in the calculation)"
+    },
+    {
+     "id": 720,
+     "text": "Use the formula to calculate the ratio for return on capital employed (sole trader) of capital + non-current liabilities (either opening or closing capital could be used in the calculation)"
+    },
+    {
+     "id": 721,
+     "text": "Use the main books of ledger accounts"
+    },
+    {
+     "id": 722,
+     "text": "Use the main books of prime entry"
+    },
+    {
+     "id": 723,
+     "text": "Verify the accuracy of the bookkeeping"
+    },
+    {
+     "id": 724,
+     "text": "Understand biology"
+    },
+    {
+     "id": 725,
+     "text": "Apply biology"
+    },
+    {
+     "id": 726,
+     "text": "Evaluate concepts in biology"
+    },
+    {
+     "id": 727,
+     "text": "Knowledge of biology"
+    },
+    {
+     "id": 728,
+     "text": "Analyse biology of species"
+    },
+    {
+     "id": 729,
+     "text": "Statement for both biology and accounting"
+    }
+]
