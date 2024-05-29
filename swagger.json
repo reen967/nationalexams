@@ -1,139 +1,66 @@
-{
-  "openapi": "3.0.0",
-  "info": {
-    "title": "National Exam Specifications API",
-    "version": "1.0.0"
-  },
-  "paths": {
-    "/items": {
-      "get": {
-        "summary": "Get all items",
-        "responses": {
-          "200": {
-            "description": "A list of items",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/Item"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "post": {
-        "summary": "Create a new item",
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Item"
-              }
-            }
-          }
-        },
-        "responses": {
-          "201": {
-            "description": "Item created"
-          }
-        }
-      }
-    },
-    "/items/{id}": {
-      "get": {
-        "summary": "Get an item by ID",
-        "parameters": [
-          {
-            "in": "path",
-            "name": "id",
-            "schema": {
-              "type": "string"
-            },
-            "required": true,
-            "description": "The item ID"
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "A single item",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Item"
-                }
-              }
-            }
-          },
-          "404": {
-            "description": "Item not found"
-          }
-        }
-      }
-    }
-  },
-  "components": {
-    "schemas": {
-      "Item": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string"
-          },
-          "qan": {
-            "type": "string"
-          },
-          "provider": {
-            "$ref": "#/components/schemas/Provider"
-          },
-          "level": {
-            "$ref": "#/components/schemas/Level"
-          },
-          "subject": {
-            "$ref": "#/components/schemas/Subject"
-          },
-          "effectiveFrom": {
-            "type": "string",
-            "format": "date"
-          },
-          "effectiveTo": {
-            "type": "string",
-            "format": "date"
-          }
-        }
-      },
-      "Provider": {
-        "type": "object",
-        "properties": {
-          "name": {
-            "type": "string"
-          },
-          "homePage": {
-            "type": "string"
-          }
-        }
-      },
-      "Level": {
-        "type": "object",
-        "properties": {
-          "name": {
-            "type": "string"
-          }
-        }
-      },
-      "Subject": {
-        "type": "object",
-        "properties": {
-          "name": {
-            "type": "string"
-          },
-          "id": {
-            "type": "string"
-          }
-        }
-      }
-    }
-  }
-}
+openapi: 3.0.0
+info:
+  title: Qualifications API
+  description: API for managing qualifications and statements
+  version: 1.0.0
+servers:
+  - url: https://api.example.com/v1
+paths:
+  /qualifications:
+    get:
+      summary: Get Qualifications
+      description: Retrieve a list of qualifications.
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Qualification'
+  /statements:
+    get:
+      summary: Get Statements
+      description: Retrieve a list of statements.
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Statement'
+components:
+  schemas:
+    Qualification:
+      type: object
+      properties:
+        provider:
+          type: string
+        level:
+          type: string
+        subject:
+          type: string
+        QAN_code:
+          type: string
+        Specification_ID:
+          type: string
+        EffectiveFrom:
+          type: string
+          format: date
+        EffectiveTo:
+          type: string
+          format: date
+        Statements:
+          type: array
+          items:
+            type: integer
+    Statement:
+      type: object
+      properties:
+        id:
+          type: integer
+        text:
+          type: string
