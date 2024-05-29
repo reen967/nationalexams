@@ -1,0 +1,104 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Qualifications API",
+    "description" : "API for managing qualifications and statements",
+    "version" : "1.0.0"
+  },
+  "servers" : [ {
+    "url" : "https://api.example.com/v1"
+  } ],
+  "paths" : {
+    "/qualifications" : {
+      "get" : {
+        "summary" : "Get Qualifications",
+        "description" : "Retrieve a list of qualifications.",
+        "responses" : {
+          "200" : {
+            "description" : "Successful response",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "array",
+                  "items" : {
+                    "$ref" : "#/components/schemas/Qualification"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/statements" : {
+      "get" : {
+        "summary" : "Get Statements",
+        "description" : "Retrieve a list of statements.",
+        "responses" : {
+          "200" : {
+            "description" : "Successful response",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "type" : "array",
+                  "items" : {
+                    "$ref" : "#/components/schemas/Statement"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components" : {
+    "schemas" : {
+      "Qualification" : {
+        "type" : "object",
+        "properties" : {
+          "provider" : {
+            "type" : "string"
+          },
+          "level" : {
+            "type" : "string"
+          },
+          "subject" : {
+            "type" : "string"
+          },
+          "QAN_code" : {
+            "type" : "string"
+          },
+          "Specification_ID" : {
+            "type" : "string"
+          },
+          "EffectiveFrom" : {
+            "type" : "string",
+            "format" : "date"
+          },
+          "EffectiveTo" : {
+            "type" : "string",
+            "format" : "date"
+          },
+          "Statements" : {
+            "type" : "array",
+            "items" : {
+              "type" : "integer"
+            }
+          }
+        }
+      },
+      "Statement" : {
+        "type" : "object",
+        "properties" : {
+          "id" : {
+            "type" : "integer"
+          },
+          "text" : {
+            "type" : "string"
+          }
+        }
+      }
+    }
+  }
+}
